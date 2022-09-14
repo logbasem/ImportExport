@@ -1,0 +1,2 @@
+# ImportExport
+This repository contains various code from a large project that utilizes Haskell, ReScript, and React that I worked on in 2022. This is probably one of the longest coding projects I have worked on, time-wise. This is part of a larger project, so not all files in this repository are complete, as I only included the code that I wrote. This repository is simply to demonstrate my coding ability.
